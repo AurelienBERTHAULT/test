@@ -1,0 +1,32 @@
+#menuBarre {
+    width: 100%;
+    height: 50px;
+    
+    background-color: red;
+}
+
+#titreBetRoom {
+    width: 300px;
+    background-color: green;
+    height: 100%;
+    line-height: 50px;
+}
+
+#menu {
+    background-color: yellow;
+    height: 100%;
+    margin-top: -50px;
+    margin-left: 300px;
+    line-height: 50px;
+}
+
+#menu table {
+    width: 100%;
+    text-align: center;
+}
+
+#menu table td{
+    width: 33.3%;
+    min-width: 50px;
+    text-align: center;
+}
